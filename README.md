@@ -42,14 +42,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Contact
-
-For any inquiries, please reach out:
-
-- Email: [Your Email Address]
-- LinkedIn: [Your LinkedIn Profile URL]
-- Portfolio: [Your Portfolio URL if different from this project]
-
----
-
 Thank you for visiting my portfolio repository!
